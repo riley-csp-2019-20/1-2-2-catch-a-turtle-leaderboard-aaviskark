@@ -13,7 +13,7 @@ size= 4
 score=0
 
 font_setup = ("Arial", 20, "normal")
-timer = 5
+timer = 10
 counter_interval = 1000   #1000 represents 1 second
 timer_up = False
 
